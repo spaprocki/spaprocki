@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spaprocki
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS & accessibility
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
